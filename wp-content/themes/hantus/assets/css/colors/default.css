@@ -1,0 +1,179 @@
+.widget_tag_cloud .tagcloud a:hover,
+.woocommerce a.button,
+.widget_search input[type=button],
+.widget_search input[type=submit],
+.section-title hr:after,
+.section-title hr:before,
+.boxed-btn,
+.preloader,
+.header-social li a:hover,
+.main-menu > ul > li.active > a,
+.main-menu > ul > li:hover > a,
+.main-menu > ul > li.focus > a,
+.main-menu > ul > li a:before,
+.mean-container a.meanmenu-reveal,
+.header-slider .boxed-btn,
+.header-slider .owl-next:hover,
+.header-slider .owl-prev:hover,
+.service-box figure figcaption .boxed-btn,
+.nav-tabs .nav-link.active,
+.feature-box:hover .feature-icon,
+.recomended-text,
+.single-product .overlay li a:hover,
+.product-carousel .owl-next:hover,
+.product-carousel .owl-prev:hover,
+.single-beauticians .social li a:hover,
+#subscribe,
+.scrollup,
+li.page-item .page-link:hover,
+li.page-item.active .page-link,
+.subscribe-wrapper button,
+#footer-widgets .widget-title:after,
+.widget-search input[type=button],
+.widget-tag li a:hover,
+.weekdays,
+.days li .active {
+    background: #f22853;
+}
+
+
+.recomended .boxed-btn {
+    background: #f22853 !important;
+}
+
+.main-menu > ul > li.active > a,
+.main-menu > ul > li:hover > a,
+.main-menu > ul > li.focus > a {
+	color: #ffffff;
+}
+
+.widget_recent_entries ul li a:hover,
+.woocommerce #payment #place_order:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:focus,
+.woocommerce a.button:hover,
+.woocommerce a.button:focus,
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover,
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:focus,
+#header-top i,
+.input__label,
+.main-menu li.c-dropdowns.focus li > a:hover,
+.main-menu li.c-dropdowns.active li > a:hover,
+.main-menu ul li ul.cr-dropdown-menu li.active > a,
+.main-menu ul li ul.cr-dropdown-menu li.focus > a,
+.sidenav .close-sidenav,
+.cart-remove:hover,
+.sidenav .cart-item-description p,
+.sb-search-input,
+.theme-content h1,
+.contact-wrapper i,
+.service-box p.price,
+.nav-tabs a.nav-link:hover,
+.nav-tabs a.nav-link:focus,
+.tab-content ul li h4:hover,
+.tab-content ul li h4 .price,
+#counter .single-box i,
+.single-product .price,
+.single-product .overlay li a,
+.single-beauticians .social li a,
+#subscribe-form button,
+.copyright-text a:hover,
+.copyright-text a:focus,
+.scrollup:hover,
+.scrollup:focus,
+#breadcrumb-area ul li a,
+#welcome .section-title h3,
+.welcome-box:hover a,
+#wcu ul li:before,
+.gallery-tab-sorting li a:focus,
+.gallery-tab-sorting li a:hover,
+.gallery-tab-sorting li a.active,
+.gallery-page .gallery-item figcaption ul li a,
+.info-box i,
+.blog-post .post-title a:hover,
+.blog-post .post-title a:focus,
+.blog-post:hover a.read-more,
+.single-post .post-header .text-right li a:hover,
+.single-post .post-header .text-right li a:focus,
+.meta-data ul li a:hover,
+.meta-data ul li a:focus,
+.comment-date:hover,
+.media ul li.comment-replay,
+.coming-soon-wrapper h1 span,
+.count-area ul li,
+.copyright a,
+.testimonial-carousel .owl-next:hover,
+.testimonial-carousel .owl-prev:hover,
+.widget_links ul li a:hover,
+.widget_links ul li a:focus,
+li.latest-news h6:hover,
+.widget-search input[type=button]:hover,
+.widget-search input[type=button]:focus,
+.widget-acrhives li a:hover,
+.widget-acrhives li a:focus,
+.recent-post h6:hover {
+    color: #f22853;
+}
+
+.input__field--hantus:focus+.input__label--hantus .graphic--hantus,
+.input--filled .graphic--hantus {
+    stroke: #f22853;
+}
+
+.woocommerce .button-cart a.button:hover,
+.woocommerce .button-cart a.button:focus {
+    color: #f22853;
+}
+
+.beautician-footer-text h5,
+.boxed-btn:hover, .boxed-btn:focus {
+    color: #f22853 !important;
+}
+
+.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:focus,
+.woocommerce button.button:hover,
+.woocommerce a.button:hover,
+.woocommerce a.button:focus,
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover,
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:focus,
+.feature-box:hover .feature-icon,
+.appoinment-wrapper input:focus,
+.appoinment-wrapper textarea:focus,
+.appoinment-wrapper select:focus,
+li.page-item .page-link:hover,
+li.page-item.active .page-link,
+.portfolio-tab-sorting li a:hover {
+    border-color: #f22853 !important;
+}
+
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit:focus,
+.woocommerce a.button:focus,
+.woocommerce button.button:focus,
+.woocommerce input.button:focus,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:focus,
+.woocommerce .woocommerce-info::before {
+	color: #f22853;
+}
+
+.woocommerce .woocommerce-info {
+    border-top-color: #f22853;
+}
+
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart,
+.woocommerce a.button, .woocommerce button.button.alt,
+.woocommerce #respond input#submit, .woocommerce input.button.alt,
+.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled],
+.woocommerce-cart table.cart input.button, .woocommerce input.button,
+.woocommerce button.button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+	background-color: #f22853;
+}
+.single-product .sale p {
+    color: #2c3145;
+}
